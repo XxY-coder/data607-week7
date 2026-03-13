@@ -1,0 +1,22 @@
+---
+title: "Week7"
+author: "ZIHAO YU"
+format: html
+editor: visual
+---
+
+# 1.How will I tackle the problem?
+
+I will first select three books on the same topic and organize the identical information from each book. Since I am unfamiliar with these formats, I will manually create HTML and JSON files, ensuring the book data is consistent across both files. I will also utilize LLM to help me better familiarize with new content.
+
+# 2.What data challenges do I anticipate?
+
+Since I am unfamiliar with this, I ask LLM about the data challenges I may encounter, including maintaining consistent author information formatting and ensuring data consistency when imported into R.
+
+Books I select: "Abstract Algebra, 3rd Edition David S. Dummit, Richard M. Foote ".
+
+"Statistical Inference
+Second Edition; George Casella 和 Roger L. Berger".
+
+"title: MATHEMATICS I
+author: KESMIA Mounira"
